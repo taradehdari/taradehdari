@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @taradehdari
-- 👀 I’m interested in learning python to help with coding lab machines
+- 👀 I’m interested in expanding my coding knowledge
 - 📫 How to reach me: tara.dehdari@gmail.com
 
 <!---
