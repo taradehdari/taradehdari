@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Tara Dehdari!
 
 ## 🚀 About Me
-I’m a Data Science Master's student, graduating in December 2024, with a background in Physiology and Neuroscience (B.S). I am passionate about healthcare data science and predictive modeling, particularly in disease prediction.
+I’m a Data Science Master's student, graduating in December 2024, with a background in Physiology and Neuroscience (B.S). I am passionate about healthcare data science and predictive modeling.
 
 ## 🌱 Current Project
 - **Capstone Project:** "Food Recommendations for Diabetic Patients"
