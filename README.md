@@ -9,22 +9,17 @@ I’m a Data Science Master's student, graduating in December 2024, with a backg
       - **Method:** Hybrid model using collaborative and content-based filtering.
   
 ## 📚 Past Projects
-- **Sentiment Analysis of Music Lyrics and Twitter Data**
-   - **Goal**: Used natural language processing techniques to analyze sentiment in song lyrics and Twitter posts for artists like Robyn and Cher.
-   - **Tech Stack**: Python, NLTK, scikit-learn, Matplotlib
-   - **Outcome**: Visualized sentiment trends and identified common themes in artists' lyrical and social media content.
-- **Fashion Review Classification**
-   - **Goal**: Classified customer reviews from an online shopping dataset to predict user satisfaction based on product fit and style.
-   - **Tech Stack**: Python, scikit-learn, t-SNE, pandas
-   - **Outcome**: Achieved improved accuracy by tuning classification models, enabling better insights into customer preferences.
-- **Image Processing for Cat Face Detection**
-   - **Goal**: Developed an image processing pipeline for detecting and analyzing grayscale images of cat faces.
-   - **Tech Stack**: OpenCV, scikit-image, Python
-   - **Outcome**: Applied PCA to identify key facial features, contributing to understanding of image decomposition and facial structure analysis.
-- **Audio Emotion Classification**
-   - **Goal**: Built a classifier to predict human emotions from audio recordings, focusing on detecting emotions like happiness, anger, and sadness.
-   - **Tech Stack**: Python, scikit-learn, Librosa
-   - **Outcome**: Created a prototype model with potential applications in sentiment analysis and human-computer interaction.
+- **Literary Analysis of Fiction vs. Nonfiction**
+   - **Goal**: Conducted a comparative analysis of fiction and nonfiction texts, exploring themes of gender roles, society, and individual rights.
+   - **Tech Stack**: Python, NLP, scikit-learn, NLTK
+   - **Outcome**: Applied topic modeling and sentiment analysis to reveal thematic contrasts, using works like *"Pride and Prejudice"* by Jane Austen and *"A Vindication of the Rights of Woman"* by Mary Wollstonecraft.
+   - [GitHub Repository](https://github.com/taradehdari/LiteraryAnalysis_ADS509)
+- **Parkinson's Predictor**
+   - **Goal**: Developed a machine learning model to predict Parkinson's disease based on clinical voice measurements.
+   - **Tech Stack**: Python, scikit-learn, pandas, NumPy
+   - **Outcome**: Created a classification model to aid in early detection of Parkinson's, supporting further medical research.
+   - [GitHub Repository](https://github.com/taradehdari/ParkinsonsPredictor_ADS503)
+
 
   
 ## 💻 GitHub Stats
