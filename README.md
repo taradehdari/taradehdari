@@ -24,8 +24,8 @@ I’m a Data Science Master's student, graduating in December 2024, with a backg
 Aiming to leverage my skills in data science and coding to make impactful contributions to healthcare, especially in disease prevention or prediction.
 
 ## 📫 Connect with Me
-- **email:** tara.dehdari@gmail.com
-- **linkedin:** https://www.linkedin.com/in/tara-dehdari-a82880132/
+- **Email:** tara.dehdari@gmail.com
+- **Linkedin:** https://www.linkedin.com/in/tara-dehdari-a82880132/
 <!---
 taradehdari/taradehdari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
