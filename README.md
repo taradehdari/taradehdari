@@ -25,6 +25,11 @@ I’m a Data Science Master's student, graduating in December 2024, with a backg
   
 ## 💻 GitHub Stats
 [![Tara's GitHub stats](https://github-readme-stats.vercel.app/api?username=taradehdari)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taradehdari&layout=compact&theme=radical)
+
+## 🔥 Contributions & Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=taradehdari&theme=radical)
+
 
 ## 🛠️ Languages & Tools
 <p align="left">
