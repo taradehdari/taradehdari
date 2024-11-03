@@ -4,9 +4,10 @@
 I’m a Data Science Master's student, graduating in December 2024, with a background in Physiology and Neuroscience (B.S). I am passionate about healthcare data science and predictive modeling.
 
 ## 🌱 Current Project
-- **Capstone Project:** "Food Recommendations for Diabetic Patients"
-      - **Objective:** Building a personalized food recommendation system for diabetic patients.
-      - **Method:** Hybrid model using collaborative and content-based filtering.
+- **Capstone Project**: "Food Recommendations for Diabetic Patients"
+   - **Objective**: Building a personalized food recommendation system for diabetic patients.
+   - **Method**: Hybrid model using collaborative and content-based filtering.
+   - [GitHub Repository](https://github.com/lvandine44/MADS-Capstone)
   
 ## 📚 Past Projects
 - **Literary Analysis of Fiction vs. Nonfiction**
