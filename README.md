@@ -50,7 +50,7 @@ Aiming to leverage my skills in data science and coding to make impactful contri
 
 ## 📫 Connect with Me
 - **Email:** tara.dehdari@gmail.com
-- **Linkedin:** https://www.linkedin.com/in/tara-dehdari-a82880132/
+- **Linkedin:** [Tara Dehdari Linedkin](https://www.linkedin.com/in/tara-dehdari-a82880132/)
 <!---
 taradehdari/taradehdari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
