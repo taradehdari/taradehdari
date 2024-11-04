@@ -1,7 +1,11 @@
 # 👋 Hi, I'm Tara Dehdari!
 
 ## 🚀 About Me
-I’m a Data Science Master's student, graduating in December 2024, with a background in Physiology and Neuroscience (B.S). I am passionate about healthcare data science and predictive modeling.
+I’m a Data Science Master's student, graduating in December 2024, with a background in Physiology and Neuroscience (B.S). While my primary passion lies in healthcare data science and predictive modeling, I am also eager to apply my skills to a variety of industries, from finance and e-commerce to environmental science. My goal is to drive impactful, data-driven solutions that make a difference across fields.
+
+🎓 Education:
+   - M.S. in Applied Data Science (University of San Diego, Dec 2024)
+   - B.S. in Physiology and Neuroscience (University of California San Diego, July 2018)
 
 ## 🌱 Current Project
 - **Capstone Project**: "Food Recommendations for Diabetic Patients"
@@ -47,13 +51,13 @@ I’m a Data Science Master's student, graduating in December 2024, with a backg
 </p>
 
 ## 🔍 Interests
-- **Healthcare Data Science:** Disease prediction, food recommendations, and personalized health insights.
+- **Healthcare Data Science:** Disease prediction, and personalized health insights.
 - **Machine Learning & NLP:** Developing classification models, sentiment analysis, and topic modeling.
-- **Deep Learning:** Exploring advanced methods for recommendation systems and healthcare applications.
+- **Data Science Applications Across Industries:** Open to exploring data-driven solutions in fields like finance, e-commerce, and environmental science.
+- **Deep Learning:** Advanced methods for recommendation systems, predictive analytics, and real-time applications.
 
-  
 ## 📈 Career Goals
-Aiming to leverage my skills in data science and coding to make impactful contributions to healthcare, especially in disease prevention or prediction.
+Aiming to leverage my skills in data science and coding to make impactful contributions to healthcare, especially in disease prevention or prediction. I'm also open to opportunities across industries where data science can drive innovative solutions.
 
 ## 📫 Connect with Me
 - **Email:** tara.dehdari@gmail.com
